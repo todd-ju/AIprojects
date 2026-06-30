@@ -1,0 +1,13 @@
+{
+  "description": "小舆 - 舆情与品控数据分析助手",
+  "runtime": "NodeJS 20",
+  "handler": "index.handler",
+  "memory": 512,
+  "timeout": 120,
+  "environment_variables": {
+    "FEISHU_APP_ID": "",
+    "FEISHU_APP_SECRET": "",
+    "DEEPSEEK_API_KEY": "",
+    "DEEPSEEK_MODEL": "deepseek-v4-flash"
+  }
+}

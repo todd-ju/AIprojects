@@ -1,0 +1,9 @@
+{
+  "name": "xiaoyu-agent",
+  "version": "1.0.0",
+  "description": "小舆 - 舆情与品控数据分析助手 飞书云函数",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}
